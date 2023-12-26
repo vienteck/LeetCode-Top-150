@@ -1,3 +1,5 @@
+package main
+
 func isSubsequence(s string, t string) bool {
 	for _, val := range t {
 		if len(s) > 0 {
