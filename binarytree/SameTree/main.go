@@ -1,6 +1,8 @@
 package main
 
-func main() {}
+func main() {
+
+}
 
 type TreeNode struct {
 	Val   int
